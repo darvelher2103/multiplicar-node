@@ -1,5 +1,6 @@
 
 
+#escluye todos los archivos que se agreguen..
 
 node_modules/
 
